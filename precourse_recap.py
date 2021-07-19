@@ -1,6 +1,6 @@
-best_car_make = input("BMW")
+car_make = input("Which is the best car make?")
 
-if best_car_make = "BMW":
-    print("Good taste of cars")
+if car_make == "BMW":
+    print("Good taste of cars!")
 else:
     print("Do better research on good cars")
